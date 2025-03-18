@@ -53,12 +53,38 @@ from just looking at their profile
 `$ python3 -m pip install -r requirements.txt`
 
 ## • Usage
+Поговорим за пробив
 
-`$ python3 main.py -u username`
+Вижу, что большинство в опросе ебашит за пробив, взломы и тд 
 
-`$ python3 main.py -h`
+Разумеется про лютые софты для взлома я рассказать не могу, такой софт стоит больших денег. Но у меня есть для тебя кое-что интересненькое 
 
-`-p, --post images info highlight`
+Боты в тг это конечно, хорошо, вечерком дума. выкатить пак ботов для пробива, кому-то точно пригодится
+
+А сейчас речь об OSINT
+
+Если кратко, то осинт — разведка на основе открытых источников, продвинутые техники поиска информации и людей в инете
+
+У меня завалялась одна софтина — OSI.IG (ссылка на гитхаб). 
+
+Вот тебе гайд по установке: 
+
+$ pkg update
+$ pkg upgrade
+$ pkg install git
+$ pkg install python
+$ git clone https://github.com/th3unkn0n/osi.ig.git 
+$ cd osi.ig
+
+И краткий инструктаж по запуску:
+
+$ python main.py -h  справка
+$ python -u @Hef_sn 
+$ python -u user -p  анализ публикаций
+
+
+
+
 
 
 ## • Update
